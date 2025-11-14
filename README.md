@@ -1,4 +1,3 @@
-![MasterHead](https://tech.gr.vodafone.com/api/og?title=Building%20microservices%20middlewares%20in%20Vodafone)
 <h1 align="center">Hi 👋, I'm Amira Mohamed</h1>
 <h3 align="center">UI/UX Designer | Front-end Developer | Software Tester</h3>
 
